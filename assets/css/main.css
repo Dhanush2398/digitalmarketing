@@ -5435,8 +5435,7 @@ header innter
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .chy-services-4-item {
-    padding: 85px 50px;
-    padding-bottom: 35px;
+    padding: 20px 20px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -7951,7 +7950,7 @@ header innter
 }
 .chy-project-4-content .chy-title-4 {
   margin-bottom: 48px;
-  color: #fff;
+  color: #000;
 }
 
 .chy-project-4-feature-wrap {
@@ -14837,4 +14836,10 @@ progress-page
 }
 .chy-footer-2-widget {
     color: white;
+}
+.chy-container-1{
+  padding-top: 50px;
+}
+.chy-services-4-item .chy-heading-1{
+  color: #EE4619;
 }
